@@ -1,16 +1,15 @@
-## Hi there 👋
+## Sejam bem vindos ao meu mundo !
 
-<!--
+<-!--
 **raissaanner/raissaanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Gato digitando](https://tenor.com/pt-BR/view/mad-cat-fr-lol-gif-4714312037331574734)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👽 Goiana,apaixonada por tecnologia e suas possibilidades!
+- 🦾Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Estou aprendendo Python,C#,Html no atual momento.
+- 🤝 Procuro colaborar com Projetos.
+- 📫 [Meu Linkedin](www.linkedin.com/in/raissa-anne-ribeiro-263077234)
+- 😄 Pronomes: Ela/Dela
+- ⚡ Meu Steam: raissa - Raissa Ribeiro 
 -->
