@@ -5,7 +5,7 @@
 
 - 👽 Goiana,apaixonada por tecnologia e suas possibilidades!
 - 🦾Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo Python,C#,JS.
+- 🌱 Estou aprendendo TS.
 - 🤝 Procuro colaborar com Projetos.
 - 📫 [Meu Linkedin](www.linkedin.com/in/raissa-anne-ribeiro-263077234)
 - 😄 Pronomes: Ela/Dela
