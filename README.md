@@ -9,5 +9,5 @@
 - 🤝 Procuro colaborar com Projetos.
 - 📫 [Meu Linkedin](www.linkedin.com/in/raissa-anne-ribeiro-263077234)
 - 😄 Pronomes: Ela/Dela
-- ⚡ Meu Steam: raissa - Raissa Ribeiro 
+   
 
